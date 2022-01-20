@@ -1,0 +1,8 @@
+"registered user, bonus under limit",100060,true,30
+"RegisteredAndNoAmount",0, true,0
+"RegisteredAndNearLimit",1666060,true,499
+"RegisteredAndLittleAmountAndOverLimit", 100000060,true,500
+"NoRegisteredAndUnderLimit",100060,false,10
+"NoRegisteredAndNoAmount",0,false,0
+"NoRegisteredAndOverLimit",100000060,true,500
+"NoRegisteredAndNearLimit",4999999,false,499
